@@ -21,5 +21,8 @@ Para remover um pacote NPM, utilize o comando:
 
 " npm remove nomeDoPacote "  ou  " npm r nomeDoPacote "
 
+Caso a remoção de alguma dependencia seja feita de maneira manual, ir ate o terminal
+e executar o comando " npm install " para atualizar.
+
 
 
