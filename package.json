@@ -1,0 +1,11 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "Para se iniciar um diretorio com NPM, Utilize o comando\r npm init",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JOAO LEANDRO",
+  "license": "ISC"
+}
