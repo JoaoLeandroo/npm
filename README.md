@@ -6,15 +6,20 @@ Se quiser iniciar um diretoria NPM, sem responder todas aquelas perguntas, use o
 
 " npm init -y "
 ______________________________________________________________________________________________
-Para utilizar algum comando do scrips, basta executar o comando:
+Para utilizar algum comando do scripts, basta executar o comando:
 
 " npm run nomeDoScript "
 
 exemplo: npm run test
 ______________________________________________________________________________________________
-Para instalar um pacote NPM, utileze o comando:
+Para instalar um pacote NPM, utilize o comando:
 
 " npm install nomeDoPacote "   ou abreviado  " npm i nomeDoPacote "
+
+______________________________________________________________________________________________
+Para remover um pacote NPM, utilize o comando:
+
+" npm remove nomeDoPacote "  ou  " npm r nomeDoPacote "
 
 
 
