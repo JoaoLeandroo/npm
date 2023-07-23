@@ -34,4 +34,14 @@ exemplos:
 " npm i typescript --save-dev "
 " npm i typescript -D "
 
+______________________________________________________________________________________________
+GitHub - ao subir o projeto para o Github, utilizar o .gitignore para ignora a pasta node modules
+evitando subir milhares de arquivos para o github
+
+Criar um arquivo " .gitignore "
+
+em seguida escrever esse comando dentro do arquivo, que ao subir pro github os arquivos serão ignorados
+
+node_modules
+
 
