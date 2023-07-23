@@ -32,5 +32,6 @@ exemplos:
 
 " npm i react --save-dev "
 " npm i typescript --save-dev "
+" npm i typescript -D "
 
 
