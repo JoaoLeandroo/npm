@@ -44,4 +44,6 @@ em seguida escrever esse comando dentro do arquivo, que ao subir pro github os a
 
 node_modules
 
-
+______________________________________________________________________________________________
+Para clonar um projeto do github que não possui a node modules, ao clonar o repositorio na 
+maquina usar o comando " npm install " para adicionar as dependencias que estão faltando
