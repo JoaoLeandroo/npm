@@ -25,4 +25,12 @@ Caso a remoção de alguma dependencia seja feita de maneira manual, ir ate o te
 e executar o comando " npm install " para atualizar.
 
 
+______________________________________________________________________________________________
+Para instalar uma dependencia de desenvolvimento, utilizar o comando
+
+exemplos:
+
+" npm i react --save-dev "
+" npm i typescript --save-dev "
+
 
